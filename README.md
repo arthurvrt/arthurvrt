@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @ArthurVEROT
-- 🎓 CS50, Ironhack & emlyon alumni!
+- 💻 Full Stack Dev - NodeJS & Python
+- 🎓 Ironhack, CS50 & emlyon alumni!
 
 <!---
 ArthurVEROT/ArthurVEROT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
