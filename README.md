@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArthurVEROT
-- 💻 Full Stack Dev - NodeJS & Python
+- 💻 Full Stack developer - NodeJS & Python
 - 🎓 Ironhack, CS50 & emlyon alumni!
 
 <!---
