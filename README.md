@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @ArthurVEROT
+### Hi there 👋
+
+![Arthur's GitHub stats][vercel stats]
+![Arthur's Top Languages][vercel language]
+
 - 💻 Full Stack developer - NodeJS & Python
 - 🎓 Ironhack, CS50 & emlyon alumni!
 
-<!---
-ArthurVEROT/ArthurVEROT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[vercel language]: https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurVEROT&langs_count=8&theme=omni&layout=compact
+[vercel stats]: https://github-readme-stats.vercel.app/api?username=ArthurVEROT&theme=omni&show_icons=true
+
