@@ -5,10 +5,10 @@ I'm Arthur, I'm a full stack dev graduated from emlyon & Ironhack!
 ![Arthur's GitHub stats][vercel stats]
 ![Arthur's Top Languages][vercel language]
 
-Here is my [Codewars profile][codewars]
+
 
 ### Teck Stack
-NodeJS - ReactJS - ExpressJS - Python
+JavaScript - NodeJS - ReactJS - ExpressJS
 
 ### Wish list
 TypeScript - Docker - Electron
@@ -17,10 +17,11 @@ TypeScript - Docker - Electron
 
 - 💸 [Trading simulator API REST][gh tradingsimulator], an API REST to run a trading simulator app.
 - 👾 [Space invaders game][gh spaceinvaders], a space invaders game in full Vanilla JavaScript
-- 🇫🇷 [TrouverSonDéputé][gh trouversondepute](my first dev project) Final project at CS50, it allows you to know your député & circonscription according to your address.
 
 
-Find out more about my work at [arthurverot.com][arthurverot]
+My portfolio [arthurverot.com][arthurverot]
+My Codewars [Codewars profile][codewars]
+
 
 [gh tradingsimulator]: https://github.com/ArthurVEROT/trading-simulator-project2
 [gh spaceinvaders]: https://github.com/ArthurVEROT/SpaceInvaders-Galaga-Project1
