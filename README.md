@@ -19,8 +19,8 @@ TypeScript - Docker - Electron
 - 👾 [Space invaders game][gh spaceinvaders], a space invaders game in full Vanilla JavaScript
 
 
-My portfolio [arthurverot.com][arthurverot]
 
+My portfolio [arthurverot.com][arthurverot]
 My Codewars [Codewars profile][codewars]
 
 
