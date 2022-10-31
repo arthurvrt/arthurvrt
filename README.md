@@ -20,8 +20,9 @@ TypeScript - Docker - Electron
 
 
 
-My portfolio [arthurverot.com][arthurverot]/
-My Codewars [Codewars profile][codewars]/
+My portfolio [arthurverot.com][arthurverot]
+/
+My Codewars [Codewars profile][codewars]
 
 
 [gh tradingsimulator]: https://github.com/ArthurVEROT/trading-simulator-project2
