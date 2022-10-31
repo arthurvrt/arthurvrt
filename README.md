@@ -20,6 +20,7 @@ TypeScript - Docker - Electron
 
 
 My portfolio [arthurverot.com][arthurverot]
+
 My Codewars [Codewars profile][codewars]
 
 
