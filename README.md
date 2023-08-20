@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 I'm Arthur, I'm a full stack dev graduated from emlyon & Ironhack!
 
