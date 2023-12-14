@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 I'm Arthur, I'm a full stack dev graduated from emlyon & Ironhack!
 
@@ -31,9 +31,6 @@ I'm Arthur, I'm a full stack dev graduated from emlyon & Ironhack!
 My portfolio: [arthurverot.com][arthurverot]  
 My Codewars: [Codewars profile][codewars]
 
-[gh tradingsimulator]: https://github.com/ArthurVEROT/trading-simulator-project2
-[gh spaceinvaders]: https://github.com/ArthurVEROT/SpaceInvaders-Galaga-Project1
-[gh trouversondepute]: https://github.com/ArthurVEROT/TrouverSonDepute.fr
 [vercel language]: https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurVEROT&langs_count=8&theme=omni&layout=compact
 [vercel stats]: https://github-readme-stats.vercel.app/api?username=ArthurVEROT&theme=omni&show_icons=true
 [arthurverot]: https://arthurverot.com/
