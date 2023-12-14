@@ -22,7 +22,7 @@ I'm Arthur, I'm a full stack dev graduated from emlyon & Ironhack!
 - REST
 - Docker
 
-### Here some of my projects :
+### Here some of my projects:
 
 <!-- - 💸 [Trading simulator API REST][gh tradingsimulator], an API REST to run a trading simulator app. -->
 
