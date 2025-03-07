@@ -8,16 +8,18 @@
 
 ### Teck Stack
 
-- JavaScript
 - Typescript
-- NodeJS
-- ReactJS
-- ExpressJS
+- Node.js
+- React
+- Next.js
+- NestJS
+- Express
 - Prisma
 - PostgreSQL
 - GraphQL
-- REST
+- REST API
 - Docker
+- K8s
 
 
 My Codewars: [Codewars profile][codewars]
