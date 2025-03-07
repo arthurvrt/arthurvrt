@@ -1,7 +1,5 @@
 ## Hi 👋
 
-I'm Arthur, I'm a full stack dev graduated from emlyon & Ironhack!
-
 <!-- ![Arthur's GitHub stats][vercel stats]
 ![Arthur's Top Languages][vercel language] -->
 
