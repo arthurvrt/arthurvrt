@@ -7,8 +7,5 @@
 </div>
 
 
-My Codewars: [Codewars profile][codewars]
-
 [vercel language]: https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurVEROT&langs_count=8&theme=omni&layout=compact
 [vercel stats]: https://github-readme-stats.vercel.app/api?username=ArthurVEROT&theme=omni&show_icons=true
-[codewars]: https://www.codewars.com/users/ArthurVEROT
