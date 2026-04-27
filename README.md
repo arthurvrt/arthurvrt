@@ -6,21 +6,6 @@
 <img align="center" src="/github-metrics.svg" alt="Metrics" width="500">
 </div>
 
-### Teck Stack
-
-- Typescript
-- Node.js
-- React
-- Next.js
-- NestJS
-- Express
-- Prisma
-- PostgreSQL
-- GraphQL
-- REST API
-- Docker
-- K8s
-
 
 My Codewars: [Codewars profile][codewars]
 
